@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a9c3bd57.chunk.css",
+    "main.js": "/static/js/main.5484aebf.chunk.js",
+    "main.js.map": "/static/js/main.5484aebf.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3315931c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3315931c.js.map",
+    "static/css/2.ca55494a.chunk.css": "/static/css/2.ca55494a.chunk.css",
+    "static/js/2.d0295328.chunk.js": "/static/js/2.d0295328.chunk.js",
+    "static/js/2.d0295328.chunk.js.map": "/static/js/2.d0295328.chunk.js.map",
+    "static/js/3.bfa2b493.chunk.js": "/static/js/3.bfa2b493.chunk.js",
+    "static/js/3.bfa2b493.chunk.js.map": "/static/js/3.bfa2b493.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ca55494a.chunk.css.map": "/static/css/2.ca55494a.chunk.css.map",
+    "static/css/main.a9c3bd57.chunk.css.map": "/static/css/main.a9c3bd57.chunk.css.map",
+    "static/js/2.d0295328.chunk.js.LICENSE.txt": "/static/js/2.d0295328.chunk.js.LICENSE.txt",
+    "static/media/avatarTix.546c691f.jpg": "/static/media/avatarTix.546c691f.jpg",
+    "static/media/back-news.b9861f84.png": "/static/media/back-news.b9861f84.png",
+    "static/media/backapp.b46ef3a1.jpg": "/static/media/backapp.b46ef3a1.jpg",
+    "static/media/banner-img.632f5427.png": "/static/media/banner-img.632f5427.png",
+    "static/media/banner-slider-1.c4d5fe9e.jpg": "/static/media/banner-slider-1.c4d5fe9e.jpg",
+    "static/media/banner-slider-2.454924ec.jpg": "/static/media/banner-slider-2.454924ec.jpg",
+    "static/media/banner-slider-3.33a486d1.jpg": "/static/media/banner-slider-3.33a486d1.jpg",
+    "static/media/banner-slider-4.16bf933f.jpg": "/static/media/banner-slider-4.16bf933f.jpg",
+    "static/media/banner-slider-5.8a084f78.jpg": "/static/media/banner-slider-5.8a084f78.jpg",
+    "static/media/banner-slider-6.0b2b382d.jpg": "/static/media/banner-slider-6.0b2b382d.jpg",
+    "static/media/daThongBao-logo.cb85045e.png": "/static/media/daThongBao-logo.cb85045e.png",
+    "static/media/footer-icon-5.08167da6.png": "/static/media/footer-icon-5.08167da6.png",
+    "static/media/icon-footer-12.6b4821d0.png": "/static/media/icon-footer-12.6b4821d0.png",
+    "static/media/loadingPage.a098baa8.gif": "/static/media/loadingPage.a098baa8.gif",
+    "static/media/undraw_page_not_found_su7k.4861ae77.svg": "/static/media/undraw_page_not_found_su7k.4861ae77.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3315931c.js",
+    "static/css/2.ca55494a.chunk.css",
+    "static/js/2.d0295328.chunk.js",
+    "static/css/main.a9c3bd57.chunk.css",
+    "static/js/main.5484aebf.chunk.js"
+  ]
+}
